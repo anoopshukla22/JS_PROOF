@@ -37,7 +37,7 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Young","Mumbai","20","Shirt","Blue");
+mintNFT("Anoop","Mumbai","20","Shirt","Blue");
 mintNFT("Angle","Pune","17","T-Shirt","Yellow");
 mintNFT("Zubair","Chandigarh","25","Shirt","Light Green");
 
